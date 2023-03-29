@@ -1,6 +1,6 @@
 # Inmobiliaria-back
 
-Este es el repositorio del backend para el proyecto final del curso de inmobiliaria. El frontend del proyecto está alojado en otro repositorio (https://github.com/sabrinamato00/Inmobiliaria-front.git). El backend está construido con Express, Knex, Morgan, Nodemon, Multer, entre otros.
+Este reposito contiene un proyecto del cursos de full stack developer en Senpai academy, correspondiente el backend de una web de Inmobiliaria. El frontend del proyecto está alojado en otro repositorio (https://github.com/sabrinamato00/Inmobiliaria-front.git). El backend está construido con Express, Knex, Morgan, Nodemon, Multer, entre otros.
 
 Tambien tiene la autenticación de usuarios, para lo cual se uso JWT (JSON Web Token) y bcrypt.
 
