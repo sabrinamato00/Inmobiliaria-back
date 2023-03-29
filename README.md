@@ -4,6 +4,8 @@ Este reposito contiene un proyecto del cursos de full stack developer en Senpai 
 
 Tambien tiene la autenticación de usuarios, para lo cual se uso JWT (JSON Web Token) y bcrypt.
 
+Mediante knex se conecta a una base de datos SQL.
+
 ## Requerimientos
 
 - Node.js
